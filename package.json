@@ -1,0 +1,19 @@
+{
+  "name": "node-express-tutorial---j-smilgas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-into.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
